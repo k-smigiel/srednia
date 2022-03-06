@@ -1,8 +1,9 @@
 <?php
 
-<?php
-$oceny = array(3, 5, 2, 1, 4, 4);
-$srednia = array_sum($oceny)/count($oceny);
-echo round($srednia,1);
-?>
+function srednia ($a, $b)
+{
+		return 0.6*$ab + 0.4*$b;
+		
+}
+
 ?>
